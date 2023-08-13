@@ -2,10 +2,10 @@
 Welcome to my portfolio! This repository showcases a collection of my work, both personal and academic projects. Here's what you'll find:
 
 ## [Academic Projects](./Academic-Projects)
-A comprehensive overview of my academic journey, including coursework, assignments, projects, and notes from different subjects and courses I've studied. [Browse the academic work](./Academic).
+A comprehensive overview of my academic journey, including coursework, assignments, projects, and notes from different subjects and courses I've studied. [Browse the academic project here](./Academic-Projects).
 
 ## [Personal Projects](./Personal-Projects)
-A variety of projects that I've undertaken in my free time, exploring different areas of technology, creativity, and innovation. [Explore the projects](./Personal-Projects).
+A variety of projects that I've undertaken in my free time, exploring different areas of technology, creativity, and innovation. [Explore the personal projects here](./Personal-Projects).
 
 ### About Me
 
