@@ -2,13 +2,12 @@
 <h2 align="center" >My Portfolio</h2>
 
 <p align="center">
-<img src="profile gif for RD.gif" width="300">
+<img src="/Other/profile gif for RD.gif" width="300">
 </p>
 
 ### About Me
-*I'm Aviv Sasson, **A student for BSc Computer Science with a secondary specialization in entrepreneurial leadership at the Technion university.** with a passion for developing cutting-edge algorithms and engaging in projects that have the potential to change the world. Driven by innovation and a desire to make a meaningful impact, I continually seek opportunities to leverage technology to solve complex problems and contribute to positive societal change.*
+***I'm Aviv Sasson, A student for BSc Computer Science with a secondary specialization in entrepreneurial leadership at the Technion university,** with a passion for developing cutting-edge algorithms and engaging in projects that have the potential to change the world. Driven by innovation and a desire to make a meaningful impact, I continually seek opportunities to leverage technology to solve complex problems and contribute to positive societal change.*
 <h2 align="center" ></h2>
-
 
 **This repository showcases a collection of my work, both personal and academic projects. Here's what you'll find:**
 ### [Academic Projects](./Academic-Projects)
