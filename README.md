@@ -10,15 +10,14 @@
 <h2 align="center" ></h2>
 
 **This repository showcases a collection of my work, both personal and academic projects. Here's what you'll find:**
-### [Academic Projects](./Academic-Projects)
-A comprehensive overview of my academic journey, including coursework, assignments, projects, and notes from different subjects and courses I've studied. [Browse the academic project here](./Academic-Projects).
+### [Academic Projects](./Academic%20Projects)
+A comprehensive overview of my academic journey, including coursework, assignments, projects, and notes from different subjects and courses I've studied. [Browse the academic project here](./Academic%20Projects).
 
-### [Personal Projects](./Personal-Projects)
-A variety of projects that I've undertaken in my free time, exploring different areas of technology, creativity, and innovation. [Explore the personal projects here](./Personal-Projects).
+### [Personal Projects](./Personal%20Projects)
+A variety of projects that I've undertaken in my free time, exploring different areas of technology, creativity, and innovation. [Explore the personal projects here](./Personal%20Projects).
 
 
 
 Feel free to explore the content, and if you have any questions, feedback, or just want to connect, don't hesitate to reach out!
 
-**Connect with me on [LinkedIn](www.linkedin.com/in/aviv-sasson)!**
-
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/aviv-sasson)!**
