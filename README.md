@@ -21,3 +21,4 @@ A variety of projects that I've undertaken in my free time, exploring different 
 Feel free to explore the content, and if you have any questions, feedback, or just want to connect, don't hesitate to reach out!
 
 **Connect with me on [LinkedIn](www.linkedin.com/in/aviv-sasson)!**
+
