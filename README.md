@@ -15,7 +15,7 @@ A comprehensive overview of my academic journey, including coursework, assignmen
 
 ### [Personal Projects](./Personal%20Projects)
 A variety of projects that I've undertaken in my free time, exploring different areas of technology, creativity, and innovation. [Explore the personal projects here](./Personal%20Projects).
-
+ 
 
 
 Feel free to explore the content, and if you have any questions, feedback, or just want to connect, don't hesitate to reach out!
