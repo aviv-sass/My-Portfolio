@@ -1,6 +1,7 @@
 # Technion Study Path Recommender - "המומלצת המומלצת"
-<img src="Other/Hamumlezet - Logo.png" width="300">
-Other/Hamumlezet - Logo.png
+<p align="center">
+<img src="Hamumlezet - Logo.png" width="300">
+</p>
 
 ## Introduction
 Technion – Israel Institute of Technology is a public research university in Haifa, Israel, specializing in engineering and precise sciences. With 18 faculties and academic units, it is a leader in technological research in Israel.
