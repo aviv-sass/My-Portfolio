@@ -6,7 +6,7 @@
 </p>
 
 ### About Me
-***I'm Aviv Sasson, A student for BSc Computer Science with a secondary specialization in entrepreneurial leadership at the Technion university,** with a passion for developing cutting-edge algorithms and engaging in projects that have the potential to change the world. Driven by innovation and a desire to make a meaningful impact, I continually seek opportunities to leverage technology to solve complex problems and contribute to positive societal change.*
+***I'm Aviv Sasson, A student for BSc Computer Science with a secondary specialization in entrepreneurial leadership at the Technion university,** with a passion for developing algorithms and engaging in projects that have the potential to change the world. Driven by innovation and a desire to make a meaningful impact, I continually seek opportunities to leverage technology to solve complex problems and contribute to positive societal change.*
 <h2 align="center" ></h2>
 
 ### [Personal Projects](./Personal%20Projects)
