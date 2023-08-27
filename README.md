@@ -2,7 +2,7 @@
 <h2 align="center" >My Portfolio</h2>
 
 <p align="center">
-<img src="/Other/cropped profile gif for RD.gif" width="200">
+<img src="/Other/cropped profile gif for RD.gif" width="170">
 </p>
 
 ### About Me
