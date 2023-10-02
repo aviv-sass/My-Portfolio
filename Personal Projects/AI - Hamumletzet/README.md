@@ -7,12 +7,20 @@
 Technion – Israel Institute of Technology is a public research university in Haifa, Israel, specializing in engineering and precise sciences. With 18 faculties and academic units, it is a leader in technological research in Israel.
 This project aims to assist students in planning their semester and degree schedule. While the Technion provides a recommended schedule (המערכת המומלצת), students often face difficulties in customizing it according to their preferences and needs. The challenge of balancing different subjects, meeting prerequisites, and avoiding academic irregularities calls for a more personalized solution.
 
+
+
+🚀 Exciting Project Alert: Hamumlezet Hamumlezet!
+
+🌟 Project Overview:
+While studying at the Technion, my team <tag>, <tag>, and I identified a prevalent issue among students. Many believe there’s a more optimal semester syllabus than the one recommended by the faculty. This belief leads students to construct their own semester syllabus, a process that is often challenging and results in imbalances in workload and difficulty levels in courses and exams. These challenges can lead to academic struggles and stress for students.
+
+🛠 Our Solution:
+To address this, 
+
+
 ## Problem & Solution
 ### Problem
-Many students believe that there is a better recommended system for them.
-Students find it challenging to build a semester timetable and plan the degree completion.
-The complexity of requirements leads to difficulties in creating an optimal path to degree completion.
-The importance of the order of taking courses is often overlooked, leading to a delay in graduation.
+Many tudents believe there’s a more optimal semester syllabus than the one recommended by the faculty (המערכת המומלצת). This belief leads students to construct their own semester syllabus, a process that is often challenging and results in imbalances in workload and difficulty levels in courses and exams. These challenges can lead to academic struggles and stress for students.
 ### Solution
 An AI-based system that recommends the best personalized path for students until the end of their degree (המומלצת המומלצת).
 The system aims for the student's optimal success in studies and successful graduation.
