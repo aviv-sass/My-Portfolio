@@ -35,3 +35,8 @@ The system aims for the student's optimal success in studies and successful grad
 3. **Options Graph:** Constructs all possible legal paths to complete the degree.
 4. **Search:** Uses the A* algorithm to find the optimal path, with various heuristics based on preferences.
 The system is implemented in Python, utilizing the networkx library for handling graphs and other libraries.
+
+### Feel free to get a closer look at the system design and functionality!
+
+<img src="system design.jpg" width="30000">
+
