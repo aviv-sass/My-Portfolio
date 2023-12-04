@@ -19,4 +19,5 @@ The system is structured into three main components:
    - Plan your grocery list by adding items you need to purchase.
    - Mark items as purchased once you buy them.
  **Access Note:** Please note that KitchenManagerBot is a private bot, and access is restricted to the owner only.
-### Feel free to get a closer look at the functionality! 
+### Feel free to get a closer look at the functionality!
+<img src="all conv.jpg" width="3000">
