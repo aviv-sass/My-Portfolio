@@ -19,3 +19,4 @@ A comprehensive overview of my academic journey, including coursework, assignmen
 Feel free to explore the content, and if you have any questions, feedback, or just want to connect, don't hesitate to reach out!
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/aviv-sasson)!**
+ 
